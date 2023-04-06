@@ -1,6 +1,8 @@
 # ks2ool
 Tools for analyzing Kilosort2 &amp; phy results.
 
+# Function
+- Get Waveforms from KS2 result with phy without GUI.
 
 # Installation
 
