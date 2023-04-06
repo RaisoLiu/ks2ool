@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ks2ool
+Version: 0.0.1
+Summary: Tools for analyzing Kilosort2 & phy results.
+Author: RaisoLiu
+Author-email: raisoliu@gmail.com
+Requires-Python: >=3.7
+License-File: LICENSE

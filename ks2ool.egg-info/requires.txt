@@ -1,0 +1,6 @@
+numpy
+tqdm
+h5py
+scipy
+phy
+phylib

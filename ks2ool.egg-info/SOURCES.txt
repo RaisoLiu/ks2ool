@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+ks2ool/__init__.py
+ks2ool/io.py
+ks2ool.egg-info/PKG-INFO
+ks2ool.egg-info/SOURCES.txt
+ks2ool.egg-info/dependency_links.txt
+ks2ool.egg-info/requires.txt
+ks2ool.egg-info/top_level.txt
