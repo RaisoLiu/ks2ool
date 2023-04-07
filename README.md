@@ -17,3 +17,6 @@ build
 ```
 python setup.py bdist_wheel
 ```
+
+# Reference
+https://github.com/kwikteam/phy-contrib/blob/master/docs/template-gui.md
